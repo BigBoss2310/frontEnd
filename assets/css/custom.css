@@ -33,6 +33,7 @@ body {
     background-color:#fff!important;
     padding:10px;
     min-height:1200px;
+    border-radius: 5px;
 }
 
 .text-center {
